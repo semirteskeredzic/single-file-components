@@ -1,7 +1,8 @@
 repo_name: semirteskeredzic/single-file-components
 report_id: b31e7f72c28b9f11b9f1527f561cc67e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T17:01:47+00:00'
+timestamp: '2024-01-04T15:08:08+00:00'
 requested_by: hootlex
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components
   detection_source: Repo Metadata
 - name: Sass
   description: Syntactically Awesome Style Sheets
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/package.json
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -39,7 +42,7 @@ tools:
   category: Libraries
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3837/paeckCWC.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -53,8 +56,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
+  detection_source: babel.config.js
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
 - name: ESLint
@@ -66,6 +69,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/package.json
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -77,6 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -86,6 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -97,6 +103,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/package.json
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -110,7 +117,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -124,7 +131,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16035/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -138,7 +145,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -152,7 +159,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16540/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -166,7 +173,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -180,7 +187,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -194,7 +201,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -208,7 +215,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-25 11:59:36.000000000 Z
@@ -235,7 +242,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-25 11:59:36.000000000 Z
@@ -249,7 +256,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -263,7 +270,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
@@ -277,7 +284,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/semirteskeredzic/single-file-components/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Kyriakidis
   last_updated_on: 2019-04-24 19:56:05.000000000 Z
